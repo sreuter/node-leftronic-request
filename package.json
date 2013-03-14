@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "Sascha Reuter",
+    "email": "sascha@tape.io"
+  },
+  "name": "leftronic-request",
+  "description": "Ultra-thin layer for the Leftronic Dashboard API based on request",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sreuter/node-leftronic-request.git"
+  },
+  "keywords": [
+    "dashboard",
+    "analytics",
+    "real-time",
+    "socket"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "request": "~2.16.2"
+  },
+  "devDependencies": {}
+}
