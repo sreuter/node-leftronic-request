@@ -25,7 +25,6 @@ var data = [{
 
 leftronic.sendData(data, function(err, result, body) {
   console.log(err || body);
-  bombWorld();
 });
 ```
 
