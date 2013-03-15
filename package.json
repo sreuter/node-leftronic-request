@@ -5,7 +5,7 @@
   },
   "name": "leftronic-request",
   "description": "Ultra-thin layer for the Leftronic Dashboard API based on request",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/sreuter/node-leftronic-request.git"
@@ -18,7 +18,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "request": "~2.16.2"
+    "request": "2.12.0"
   },
   "devDependencies": {}
 }
